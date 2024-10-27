@@ -22,16 +22,16 @@ Date of finished:
 ![](https://github.com/STAM1-lab/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4225-aminov_s_o/blob/main/lab2/lab2_screenshots/img3.jpg)
 
 **4. Проанализировал метрики**
-*Request count* - количество обработнных запросов 
-*Request Latencies* - среднее время задержки (5-10 мс)
-*Container Instance Count* - Количество контейнеров:
-  active: количество активных контейнеров.
-  idle: количество простаивающих контейнеров.
-*Billable Container Instance Time* - время, за которое контейнеры были активны и оплачиваемы
-*Container CPU Utilization* - Загрузка CPU контейнеров
-*Container memory utilization* - Загрузка памяти контейнеров
-*Max Concurrent Requests* - Максимальное количество одновременных запросов
-Вывод: по метрикам видим, что было сделано несколько запросов, на которые был быстро получен ответ. Загрузка памяти контейнеров достигла 18%. После того как был сделан запрос, некоторое время система держитконтейнер в статусе "idle", а затем выключает для экономии ресурсов. 
+*Request count* - количество обработнных запросов  
+*Request Latencies* - среднее время задержки (5-10 мс)  
+*Container Instance Count* - Количество контейнеров:  
+  active: количество активных контейнеров  
+  idle: количество простаивающих контейнеров  
+*Billable Container Instance Time* - время, за которое контейнеры были активны и оплачиваемы  
+*Container CPU Utilization* - Загрузка CPU контейнеров  
+*Container memory utilization* - Загрузка памяти контейнеров  
+*Max Concurrent Requests* - Максимальное количество одновременных запросов  
+**Вывод**: по метрикам видим, что было сделано несколько запросов, на которые был быстро получен ответ. Загрузка памяти контейнеров достигла 18%. После того как был сделан запрос, некоторое время система держитконтейнер в статусе "idle", а затем выключает для экономии ресурсов.   
 ![](https://github.com/STAM1-lab/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4225-aminov_s_o/blob/main/lab2/lab2_screenshots/img4.jpg)
 
 **5. Меняем порт на 8090**
