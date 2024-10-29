@@ -38,7 +38,7 @@ Date of finished: 29.10.2024
 ![](https://github.com/STAM1-lab/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4225-aminov_s_o/blob/main/lab3/lab3_screenshots/img7.jpg)
 2. Выдал права доступа: добавил принципала allusers, с ролью Storage Object Viewer 
 ![](https://github.com/STAM1-lab/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4225-aminov_s_o/blob/main/lab3/lab3_screenshots/img8.jpg)
-![](https://github.com/STAM1-lab/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4225-aminov_s_o/blob/main/lab3/lab3_screenshots/img10.jpg)
+![](https://github.com/STAM1-lab/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4225-aminov_s_o/blob/main/lab3/lab3_screenshots/img12.jpg)
 
 **6. Создал ссылки на файлы через контекстное меню**  
 https://storage.cloud.google.com/saminov_bucket-1/Cats%20folder/cat1.jpg  
