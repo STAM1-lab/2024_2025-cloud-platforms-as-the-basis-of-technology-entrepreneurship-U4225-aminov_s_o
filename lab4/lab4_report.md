@@ -1,3 +1,24 @@
+<div align="center">
+  
+University: [ITMO University](https://itmo.ru/ru/)  
+
+Faculty: [FICT](https://fict.itmo.ru)  
+
+Course: [Cloud platforms as the basis of technology entrepreneurship](https://) ADD link  
+
+Year: 2024/2025  
+
+Group: U4225  
+
+Author: Aminov Stanislav Olegovich  
+
+Lab: Lab4  
+
+Date of create: 04.11.2024  
+
+Date of finished: 05.11.2024 
+</div>
+
 # Лабораторная работа: Разработка инфраструктуры MVP AI-приложения для мониторинга погодных условий
 
 **Название приложения:** Прогноз погоды и мониторинг климата
@@ -79,3 +100,6 @@ https://cloud.google.com/products/calculator?hl=ru&dl=CjhDaVF5TmpJME1XWTFOeTFqTV
 | CDN                            | Для высокой скорости доставки контента   | $28                |
 | Резервное копирование и аварийное восстановление | Ежедневные бэкапы данных | $5          |
 | **Общие ежемесячные расходы:** |                                          | **$713**           |
+
+## Схема инфраструктуры
+![](https://github.com/STAM1-lab/2024_2025-cloud-platforms-as-the-basis-of-technology-entrepreneurship-U4225-aminov_s_o/blob/main/lab4/img1.png)
